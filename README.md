@@ -1,0 +1,2 @@
+# GreyCodeGenerator
+Generates Grey code
